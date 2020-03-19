@@ -1,13 +1,13 @@
-# WhatsApp Clone
+# Twitter Clone
 
 ## Comenzando 🚀
 
-WhatsApp Messenger (o simplemente [WhatsApp](https://es.wikipedia.org/wiki/WhatsApp)) es una aplicación de mensajería para teléfonos inteligentes, en la que se envían y reciben mensajes mediante Internet, así como también los usuarios de la libreta de contacto pueden crear grupos, enviarse mutuamente imágenes, documentos, ubicaciones, contactos, vídeos y grabaciones de audio, realizar llamadas y videollamadas, entre otras funciones.
+[Twitter](https://es.wikipedia.org/wiki/Twitter) es un servicio de microblogging, con sede en San Francisco, California, EE.UU, con filiales en San Antonio (Texas) y Boston (Massachusetts) en Estados Unidos. Twitter, Inc. fue creado originalmente en California, pero está bajo la jurisdicción de Delaware desde 2007. Desde que Jack Dorsey lo creó en marzo de 2006, y lo lanzó en julio del mismo año, la red ha ganado popularidad mundial y se estima que tiene más de 300 millones de usuarios, generando 65 millones de tuits al día y maneja más de 800 000 peticiones de búsqueda diarias.
 
 ## Demostración 📹
 
 <p align="center">
-<img src="https://github.com/Rodrigolara05/Flutter-WhatsApp-Clone/blob/master/README-gif/captura-principal.gif" width="150" />
+<img src="https://github.com/Rodrigolara05/Flutter-Twitter-Clone/blob/master/README-gif/captura-principal.gif" width="150" />
 </p>
 
 ## SDK 📌
